@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Unit-01": {
+      "commandName": "Project",
+      "commandLineArgs": "Hello F# World!"
+    }
+  }
+}

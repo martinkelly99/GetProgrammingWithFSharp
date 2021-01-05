@@ -147,11 +147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\UnitOne\\Unit-01.fsproj",
+      "projectUniqueName": "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\Unit-01\\Unit-01.fsproj",
       "projectName": "Unit-01",
-      "projectPath": "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\UnitOne\\Unit-01.fsproj",
+      "projectPath": "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\Unit-01\\Unit-01.fsproj",
       "packagesPath": "C:\\Users\\Marty\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\UnitOne\\obj\\",
+      "outputPath": "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\Unit-01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
