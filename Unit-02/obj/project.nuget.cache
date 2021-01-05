@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Fz48zm83zFm18UZ/uQsnlPvt7QhcpbNGDOWrTgi5UMwEUO+YI1YKgwP/kG5GN70tEUEfofSBQR0LVvcOfw0lg==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\Unit-02\\Unit-02.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marty\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

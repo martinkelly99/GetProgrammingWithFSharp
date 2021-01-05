@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\UnitOne\\UnitOne.fsproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\UnitOne\\UnitOne.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\UnitOne\\UnitOne.fsproj",
+        "projectName": "UnitOne",
+        "projectPath": "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\UnitOne\\UnitOne.fsproj",
+        "packagesPath": "C:\\Users\\Marty\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Source\\Repos\\GetProgrammingWithFSharp\\UnitOne\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
